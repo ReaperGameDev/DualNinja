@@ -376,41 +376,6 @@ PrefabInstance:
       propertyPath: playerCantEnter
       value: 
       objectReference: {fileID: 1804514237}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_AutoTiling
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Size.x
-      value: 0.086064935
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Offset.x
-      value: -0.00092645735
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: -0.0002496466
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739481, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 0.19890784
-      objectReference: {fileID: 0}
     - target: {fileID: 7228248378685739482, guid: 66d92fb711fb61c4782e623a4830757c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -465,42 +430,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739482, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.45375
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739482, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 11.903997
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739483, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: adfb19a96a8de6a4799f68f2907279f0,
-        type: 3}
-    - target: {fileID: 7228248378685739483, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739483, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739483, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7228248378685739483, guid: 66d92fb711fb61c4782e623a4830757c,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7228248378685739484, guid: 66d92fb711fb61c4782e623a4830757c,
         type: 3}
@@ -1228,7 +1157,7 @@ PrefabInstance:
     - target: {fileID: 6263184208649872528, guid: 9b7a22fc8bf8fe541a56dbfc1ada6908,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6263184208649872528, guid: 9b7a22fc8bf8fe541a56dbfc1ada6908,
         type: 3}
@@ -8869,11 +8798,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Player Two
-      objectReference: {fileID: 0}
-    - target: {fileID: 2872000598620685983, guid: eade5df32bc70084780200e2954b1ef7,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eade5df32bc70084780200e2954b1ef7, type: 3}
